@@ -12,6 +12,9 @@ To run this project, you'll need to have Python installed along with the followi
 - seaborn
 - matplotlib
 - scikit-learn
+- Access The project Here io.ipynb
+- Data File IceCreamData.csv
+
 
 You can install the required libraries using pip:
 ```bash
