@@ -28,3 +28,6 @@ seaborn
 matplotlib
 scikit-learn
 
+**Accuracy
+**
+97.3%
