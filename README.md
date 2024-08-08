@@ -15,6 +15,9 @@ To run this project, you'll need to have Python installed along with the followi
 - Access The project Here io.ipynb
 - Data File IceCreamData.csv
 
+**Accuracy
+**
+97.3%
 
 You can install the required libraries using pip:
 ```bash
@@ -28,6 +31,4 @@ seaborn
 matplotlib
 scikit-learn
 
-**Accuracy
-**
-97.3%
+
